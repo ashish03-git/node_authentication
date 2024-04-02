@@ -1,0 +1,42 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Output of build tools
+build/
+dist/
+
+# Testing libraries
+coverage/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm package lock file
+package-lock.json
+
+# Yarn lock file
+yarn.lock
+
+# Config files
+*.config.js
+
+# User-specific files
+.npmrc
+
+# Shell scripts
+.sh
+
+# Miscellaneous
+*.swp
